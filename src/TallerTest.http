@@ -1,0 +1,6 @@
+@TallerTest_HostAddress = http://localhost:5007
+
+GET {{TallerTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
