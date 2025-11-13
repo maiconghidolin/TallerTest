@@ -3,3 +3,10 @@ src/bin
 src/obj
 src/TallerTest.csproj.user
 src/Properties
+TestProject1/bin
+TestProject1/obj
+src/Application/bin
+src/Application/obj
+src/Application/Properties
+src/Tests/bin
+src/Tests/obj
